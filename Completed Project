@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class K9DeputyCowS
+public class K9DeputyCow
 
 {
 public static void main(String[] args)
